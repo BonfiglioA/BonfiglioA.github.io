@@ -1,0 +1,26 @@
+
+http://wayfarerweb.com/jquery/plugins/mapbox/
+/*
+
+for the html people page
+
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script> 
+<script type="text/javascript" src="/js/mousewheel.js"></script> 
+<script type="text/javascript" src="/js/map.js"></script> 
+
+*/
+
+css:
+
+<style type="text/css"> 
+    #viewport { 
+        width: 469px; 
+        height: 400px; 
+        cursor: move; 
+        margin: 20px auto; 
+        overflow: hidden; /*keep map contents from spilling over if JS is disabled*/ 
+    } 
+</style> 
+
+
